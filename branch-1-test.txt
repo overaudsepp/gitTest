@@ -1,4 +1,9 @@
 first line test in new branch
 
+<<<<<<< HEAD
 modified file
+=======
+
+conflict 2 file
+>>>>>>> branch-conflict-2
 
